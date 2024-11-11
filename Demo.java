@@ -1,5 +1,5 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.printf("Abc123");
+        System.out.printf("git demo terminal");
     }
 }
